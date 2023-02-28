@@ -11,7 +11,6 @@ function draw() {
   mostrarCarro();
   movimentarCarro();
   retornaCarro();
-  //foiDeF();
   colisaoCarro();
   retornoAtravessou();
   placar();
